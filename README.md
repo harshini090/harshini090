@@ -1,6 +1,13 @@
-## Hi there 👋
+Hi, I’m Harshini 👋  
 
-- 🔭 I’m currently working on personal porfolio
-- 🌱 I’m currently learning Prompt Engineering, Building Static website (I know that's basic but I'm learning!)
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/harshinichowdarykilari/)
-- 😄 Pronouns: she/her
+I love turning ideas into clean, interactive web experiences and dashboards that actually make sense to users.  
+Currently building my personal portfolio and shipping real projects across frontend, cloud, and data visualization.
+
+✨ What I enjoy working on:
+- Interactive dashboards & data storytelling  
+- Frontend development with React, Svelte & modern CSS  
+- Cloud + infrastructure concepts on AWS  
+- Learning by building (a lot 😄)
+
+🔗 Let’s connect: [LinkedIn](https://linkedin.com/in/harshinichowdarykilari)  
+😄 Pronouns: she/her
