@@ -79,11 +79,11 @@ Sensitive documents shouldn't leave your device for redaction. Private-Eye runs 
 
 ---
 
-## 📊 GitHub Activity
+## 💬 How I Work
 
-![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshini090&show_icons=true&theme=transparent&hide_border=true&title_color=c9a882&icon_color=c9a882&text_color=b8b8b8)
+I think in systems, not features. Every project above started with a question — "Why does this process take so long?" or "Why does this data have to leave the device?" — and the code followed the answer. I care about shipping things that work for real users, writing documentation that my future self will thank me for, and picking the right tool instead of the trendy one.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshini090&layout=compact&theme=transparent&hide_border=true&title_color=c9a882&text_color=b8b8b8)
+If you're building something interesting and need someone who ramps up fast, let's talk.
 
 ---
 
