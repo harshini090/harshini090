@@ -6,8 +6,6 @@ I build web applications that handle real users and real data — from JWT-authe
 
 **I don't just learn technologies. I ship with them.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshinichowdarykilari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://myportfolio-eta-steel.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshinichowdarykilari@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2ca4877f-64ac-421d-9487-301499a9e147/public_url)
 
